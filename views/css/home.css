@@ -1,0 +1,34 @@
+.head_first{
+    display: inline-block;
+    text-align: center;
+    font-size: 42px;
+    margin-bottom : 30px;
+    
+}
+
+
+.form_login{
+    margin: auto;
+    width: 55%;
+    color: rgb(0, 255, 76);
+}
+
+.main_sec{
+    text-align: center;
+}
+
+
+.btn-submit{
+    display: inline-block;
+    width: 49%;
+    margin-top: 0px;
+    color: rgb(0, 255, 76);
+}
+
+
+.register{
+    display: inline-block;
+    margin-top: 4px;
+    width: 99%;
+  
+}
