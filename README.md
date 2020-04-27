@@ -2,12 +2,14 @@
 
 
 FirmPayrollSys HRM application provides an employee management and payroll system.  Phase-1 of the project features a login application that lets the admin login and perform CRUD operations such as registering employee and recording employee salary. The application persists employee info to a database. Future changes will include enhanced home page and payroll functions. 
-```
 
+```
 ### Prerequisites:
+
 •	Node 
 •	Express 
 •	MongoDB 
+
 ```
 ### Packages:
 ```
@@ -23,6 +25,7 @@ FirmPayrollSys HRM application provides an employee management and payroll syste
 ```
 
 ### To run the project:
+```
 •	Install nodemon and make sure you have your MongoDB up and running.
 •	Create DBs
 •	Listening on Port: 8000
